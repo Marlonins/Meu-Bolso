@@ -1,6 +1,9 @@
 Pontifícia Universidade Católica de Minas Gerais – Campus Barreiro
+
 Curso: Sistemas de Informação
+
 Disciplina: Interação Humano Computador, 1/2018
+
 Aluno: Lucas de Souza Moreira Marlon Dias
 
 
