@@ -4,7 +4,8 @@ Curso: Sistemas de Informação
 
 Disciplina: Interação Humano Computador, 1/2018
 
-Aluno: Lucas de Souza Moreira Marlon Dias
+Alunos: Lucas de Souza Moreira Marlon Dias
+
 
 
 O trabalho consistiu na criação de uma pequena aplicação de computador. Para isso foi utilizado a linguagem C#, no Visual Studio 2017, 
