@@ -4,7 +4,7 @@ Curso: Sistemas de Informação
 
 Disciplina: Interação Humano Computador, 1/2018
 
-Alunos: Lucas de Souza Moreira Marlon Dias
+Alunos: Lucas de Souza Moreira e Marlon Dias
 
 
 
