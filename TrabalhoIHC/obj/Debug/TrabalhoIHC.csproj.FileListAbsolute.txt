@@ -37,15 +37,6 @@ C:\Users\msouz.DESKTOP-MRIKBVN\Documents\Universidade\5º Período\Interação H
 C:\Users\msouz.DESKTOP-MRIKBVN\Documents\Universidade\5º Período\Interação Humano Computador\Trabalhos\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.exe.config
 C:\Users\msouz.DESKTOP-MRIKBVN\Documents\Universidade\5º Período\Interação Humano Computador\Trabalhos\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.exe
 C:\Users\msouz.DESKTOP-MRIKBVN\Documents\Universidade\5º Período\Interação Humano Computador\Trabalhos\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.pdb
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.exe.config
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.exe
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.pdb
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.exe
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.pdb
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.csprojResolveAssemblyReference.cache
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.Form1.resources
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.Investimentos.resources
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.Properties.Resources.resources
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.ReceitasDespesas.resources
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.Metas.resources
-C:\Users\GIRO ALTO SOL. EM VI\Desktop\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.csproj.GenerateResource.Cache
+C:\Projetos\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\bin\Debug\TrabalhoIHC.exe.config
+C:\Projetos\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.exe
+C:\Projetos\Trabalho Módulo II\TrabalhoIHC\TrabalhoIHC\obj\Debug\TrabalhoIHC.pdb

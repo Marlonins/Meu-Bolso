@@ -151,15 +151,5 @@ namespace TrabalhoIHC
 
 - Clique em 'Limpar' para apagar todos os dados.", "Ajuda", MessageBoxButtons.OK, MessageBoxIcon.Question);
         }
-
-        private void Metas_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox_NomeMeta_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
